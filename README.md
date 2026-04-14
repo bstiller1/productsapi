@@ -3,6 +3,10 @@
 `javac ProductsapiApplication.java`  
 `java ProductsapiApplication`  
 
+Use Postman to load the Routes below:  
+`http://localhost:8080`  
+
+
 ## Routes  
 **GET** `/api/products` - Show all products  
 **POST** `/api/products` - Add a product  
